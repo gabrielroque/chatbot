@@ -16,7 +16,7 @@ public class Ibkdata {
     }
 
     public String getRuc() {
-        print('asdasd');
+        //print('asdasd');
         return this.ruc;
     }
 
